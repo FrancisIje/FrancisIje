@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @FrancisIje
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👀 I’m interested in Flutter, dart and nodeJS
 - 🌱 I’m currently learning flutter and dart
 - 💞️ I’m looking to collaborate on any flutter projects
