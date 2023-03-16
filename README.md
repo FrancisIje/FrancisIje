@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
 
+
+--------------------------------------------------------------------
 - 👀 I’m interested in Flutter, dart and nodeJS
 - 🌱 I’m currently learning flutter and dart
 - 💞️ I’m looking to collaborate on any flutter projects
