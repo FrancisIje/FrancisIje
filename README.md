@@ -16,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 --------------------------------------------------------------------
 
+https://github-readme-stats.vercel.app/api?username=FrancisIje&show_icons=true&theme=gruvbox
+
+--------------------------------------------------------------------
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FrancisIje)](https://github.com/ryo-ma/github-profile-trophy)
