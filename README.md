@@ -4,10 +4,10 @@
 
 
 --------------------------------------------------------------------
-- 👀 I’m interested in Flutter, Dart, NodeJS, Firebase, C, Swift
+- 👀 I’m interested in Flutter, Dart, NodeJS,React, Nextjs Firebase, C, Swift
 - 🌱 I’m currently learning C, Dart and Rust
-- 💞️ I’m looking to collaborate on any flutter projects
-- 📫 You can reach me on Twitter @CodeWithBishop
+- 💞️ I’m looking to collaborate on any flutter and react projects
+- 📫 You can reach me on Twitter @Bishop11011
 
 <!---
 FrancisIje/FrancisIje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
