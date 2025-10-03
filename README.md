@@ -4,9 +4,7 @@
 
 
 --------------------------------------------------------------------
-- 👀 I’m interested in Flutter, Dart, NodeJS,React, Nextjs Firebase, C, Swift
-- 🌱 I’m currently learning C, Dart and Rust
-- 💞️ I’m looking to collaborate on any flutter and react projects
+- C + DART + JS
 - 📫 You can reach me on Twitter @Bishop11011
 
 <!---
