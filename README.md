@@ -1,1 +1,3 @@
-<div class="tenor-gif-embed" data-postid="18589632" data-share-method="host" data-aspect-ratio="0.8125" data-width="100%"><a href="https://tenor.com/view/science-gravity-cosmology-quasar-black-gif-18589632">Science Gravity GIF</a>from <a href="https://tenor.com/search/science-gifs">Science GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/images/8cbfcf2e5cb7d841a0a493fa7b8f64fa/tenor.gif" alt="Science Gravity GIF" width="400"/>
+</p>
